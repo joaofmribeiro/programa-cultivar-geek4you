@@ -1,4 +1,5 @@
 #Geek4You
+
 [![GitHub license](https://img.shields.io/github/license/joaofmribeiro/programa-cultivar-geek4you)](https://github.com/joaofmribeiro/programa-cultivar-geek4you/blob/main/LICENCE.md)
 
 ## Sobre o o sistema
@@ -8,7 +9,7 @@ Desenvolvimento de um website para compra e vendas de produtos da cultura geek, 
 - Buscar produto pela página de produtos.
 
 
-![Image](https://github.com/joaofmribeiro/java-springboot/blob/master/img/Dominio.png)
+![Image](https://github.com/joaofmribeiro/programa-cultivar-geek4you/blob/main/Front-end/imgs/logo-site.png)
 
 
 ### Tecnlogias e ferramentas utilizadas
