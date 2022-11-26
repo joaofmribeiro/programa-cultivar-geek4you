@@ -1,5 +1,4 @@
 # Geek4You
-
 [![GitHub license](https://img.shields.io/github/license/joaofmribeiro/programa-cultivar-geek4you)](https://github.com/joaofmribeiro/programa-cultivar-geek4you/blob/main/LICENCE.md)
 
 ## Sobre o o sistema
