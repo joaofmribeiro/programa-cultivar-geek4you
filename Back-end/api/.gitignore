@@ -1,0 +1,13 @@
+build/
+# Commonly ignored Node.js file
+node_modules/
+npm-debug.log
+.npm/
+
+# OSX system files, the bane of our existece
+.DS_Store
+.Apple_Double
+.LSOverride
+
+# DB Connection String
+# config/
